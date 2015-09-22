@@ -1,0 +1,14 @@
+{
+  "name": "electron-test-1",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashley Davis <luna@airsi.de>",
+  "license": "copyright",
+  "dependencies": {
+    "ace-builds": "^1.2.0"
+  }
+}
