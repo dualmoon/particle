@@ -1,10 +1,11 @@
 {
-  "name": "electron-test-1",
-  "version": "0.0.0",
-  "description": "0.0.1",
+  "name": "particle",
+  "version": "0.0.1",
+  "description": "particle is an electron-based text editor",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ace-cp": "cp node_modules/ace-builds/* dist/ace/"
   },
   "author": "Ashley Davis <luna@airsi.de>",
   "license": "copyright",
